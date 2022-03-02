@@ -19,11 +19,11 @@
 
 ## Fase de formalización
 
-| Solicitud |
-| --------- |
-| AbogaBot |
+| Descripcion de la solicitud |
+| --------------------------- |
+| AbogaBot         |
 | Despacho de abogados que busca automatizar las demandas de sus clientes, esto se hará a través de una página Web llenando un formulario. |
-| Al llenar el formulario se manda al proceso de pago para finalizar la transacción.|
+| Al llenar el formulario se manda al proceso de pago para finalizar la transacción. |
 | Para dar seguimiento a la demanda, el cliente creará una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal |
 | El administrador del sitio recibe la notificación de una nueva demanda y con los datos llenados del formulario se crea automaticamente el documento legal en formato word para empezar el proceso |
 | El administrador recibe el pago y debe de ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos |
